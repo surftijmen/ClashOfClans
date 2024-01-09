@@ -1,0 +1,29 @@
+# Clash of clans builder base losing macro - SurfBit
+
+tap  8.62485 83.3869 # attack
+wait 300 
+tap 74 65 # press OK
+wait 4000
+
+#zoom to bottom
+swipe  49.5778 65.2733  50.4222 10.8253 100 
+
+#tap troop
+tap  10.193 89.0675
+#tap bottom
+tap  51.8697 65.059
+wait 200
+
+#tap surrender
+tap  8.02171 69.6677
+wait 300
+
+#press SURE
+tap  52.5935 66.881
+wait 2000
+
+#press OK
+tap  50.1809 83.6013
+wait 2000
+
+loopEnd
